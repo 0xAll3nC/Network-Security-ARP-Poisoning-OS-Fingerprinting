@@ -124,7 +124,7 @@ This project demonstrates how ARP poisoning can allow an attacker to manipulate 
 ---
 
 ## 5. Detailed Documentation
-For a more detailed explanation and step-by-step guide, please refer to the complete assignment documentation [[here] https://github.com/AllenJustine/Network-Security-ARP-Poisoning/blob/149a541a8288b6a75331892c40635120f3a2800d/ARP%20Poisoning%20and%20OS%20Fingerprinting%20Project%20Documentation.pdf].
+For a more detailed explanation and step-by-step guide, please refer to the complete assignment documentation [here][ https://github.com/AllenJustine/Network-Security-ARP-Poisoning/blob/149a541a8288b6a75331892c40635120f3a2800d/ARP%20Poisoning%20and%20OS%20Fingerprinting%20Project%20Documentation.pdf].
 
 ---
 
